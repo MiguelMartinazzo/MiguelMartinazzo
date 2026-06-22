@@ -105,6 +105,7 @@ Tecnologias utilizadas:
 - JSON
 - Git/GitHub
 
+---
 
 ### SchedulePlanner BioInspired
 
