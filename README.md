@@ -80,6 +80,32 @@ Também tenho experiência e interesse em **desenvolvimento de software**, **Mac
   
 ## Projetos em Destaque
 
+### MonitorMagnera
+
+API desenvolvida em **.NET/C#** para integração com balanças Toledo/Prix (TI400 e 9098) via comunicação serial RS232.
+
+O projeto foi criado para substituir uma API legada, permitindo leitura de peso em tempo real e integração com sistemas corporativos através de HTTP.
+
+Principais recursos:
+
+- Leitura de balanças TI400 e 9098;
+- Comunicação SerialPort;
+- API HTTP para integração com sistemas;
+- Configuração via JSON;
+- Execução como Windows Service;
+- Compatibilidade com sistemas legados;
+- Interface web para visualização do peso.
+
+Tecnologias utilizadas:
+
+- C#
+- .NET
+- SerialPort
+- HttpListener
+- JSON
+- Git/GitHub
+
+
 ### SchedulePlanner BioInspired
 
 Aplicação web desenvolvida em **Java com Quarkus**, utilizando conceitos de **algoritmos genéticos** para geração e otimização de cronogramas.
