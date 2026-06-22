@@ -4,6 +4,9 @@ Sou **Analista de Infraestrutura PL**, com experiência em **infraestrutura de T
 
 Também tenho experiência e interesse em **desenvolvimento de software**, **Machine Learning**, **análise de dados** e **tecnologias avançadas**, aplicando conhecimentos em projetos acadêmicos e pessoais com Java, C, TypeScript, Angular, Python, Quarkus, HTML, CSS, JavaScript e modelos de aprendizado de máquina.
 
+<details>
+<summary>Ver mais sobre meus projetos e conhecimentos</summary>
+
 ---
 
 ## Sobre mim
@@ -261,11 +264,16 @@ Aqui no meu GitHub compartilho projetos acadêmicos, estudos e aplicações prá
 
 ## Contato
 
-- LinkedIn: `https://www.linkedin.com/in/miguel-martinazzo-4859b621b/`
-- GitHub: `github.com/MiguelMartinazzo`
-- E-mail: `miguelmartinazzo@gmail.com`
+<div>
+  <a href="https://www.linkedin.com/in/miguel-martinazzo-4859b621b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
+
+<div>
+  <a href="miguelmartinazzo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
 
 ---
+</details>
 
 ## Resumo
 
