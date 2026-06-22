@@ -75,7 +75,9 @@ Também tenho experiência e interesse em **desenvolvimento de software**, **Mac
 - Informix
 
 ---
-
+<details>
+<summary>Ver sobre meus projetos</summary>
+  
 ## Projetos em Destaque
 
 ### SchedulePlanner BioInspired
@@ -229,6 +231,7 @@ Foram analisadas métricas como:
 
 O modelo **Random Forest** apresentou o melhor equilíbrio geral entre precisão, robustez e desempenho, enquanto **Decision Tree** se destacou pela interpretabilidade, **SVM** pela robustez e **ELM** pela velocidade de treinamento.
 
+</details>
 ---
 
 ## Atualmente Estudando e Evoluindo em
@@ -269,7 +272,7 @@ Profissional de Infraestrutura de TI com experiência prática em suporte, redes
 
 Também desenvolvo aplicações e projetos de Machine Learning, combinando conhecimentos de infraestrutura, programação, análise de dados e resolução de problemas para criar soluções práticas e evoluir continuamente na área de tecnologia.
 
-## Contato
+## Contatos
 
 <div>
   <a href="https://www.linkedin.com/in/miguel-martinazzo-4859b621b/" target="_blank">
