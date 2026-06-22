@@ -261,18 +261,6 @@ Aqui no meu GitHub compartilho projetos acadêmicos, estudos e aplicações prá
 - Projetos acadêmicos e pessoais.
 
 ---
-
-## Contato
-
-<div>
-  <a href="https://www.linkedin.com/in/miguel-martinazzo-4859b621b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>  
-
-<div>
-  <a href="miguelmartinazzo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
-
----
 </details>
 
 ## Resumo
@@ -280,3 +268,15 @@ Aqui no meu GitHub compartilho projetos acadêmicos, estudos e aplicações prá
 Profissional de Infraestrutura de TI com experiência prática em suporte, redes, servidores, sistemas operacionais, bancos de dados e manutenção de hardware.
 
 Também desenvolvo aplicações e projetos de Machine Learning, combinando conhecimentos de infraestrutura, programação, análise de dados e resolução de problemas para criar soluções práticas e evoluir continuamente na área de tecnologia.
+
+## Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/miguel-martinazzo-4859b621b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:miguelmartinazzo@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
