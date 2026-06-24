@@ -309,4 +309,6 @@ Também desenvolvo aplicações e projetos de Machine Learning, combinando conhe
   <a href="mailto:miguelmartinazzo@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
+  ![](https://komarev.com/ghpvc/?username=MiguelMartinazzo&style=flat-square&color=000000)
 </div>
