@@ -311,4 +311,5 @@ Também desenvolvo aplicações e projetos de Machine Learning, combinando conhe
   </a>
 
   ![](https://komarev.com/ghpvc/?username=MiguelMartinazzo&style=flat-square&color=000000)
+  ![](https://komarev.com/ghpvc/?username=Luizedu34&style=flat-square&color=000000)
 </div>
